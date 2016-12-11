@@ -5,7 +5,9 @@ node_js:
   - 5
   - 4
 
-script: npm run build
+script:
+  - npm test 
+  - npm run build
 
 install:
   - npm i -g npm@latest
@@ -25,3 +27,4 @@ after_success: 'npm run coveralls'
 cache:
   directories:
     - node_modules
+
