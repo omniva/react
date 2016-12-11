@@ -17,8 +17,8 @@
     <img src="https://david-dm.org/mxstbr/react-boilerplate/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
-  <a href="https://travis-ci.org/mxstbr/react-boilerplate">
-    <img src="https://travis-ci.org/mxstbr/react-boilerplate.svg" alt="Build Status" />
+  <a href="https://travis-ci.org/omniva/react">
+    <img src="https://travis-ci.org/omniva/react.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
   <a href="https://coveralls.io/r/mxstbr/react-boilerplate">
